@@ -12,7 +12,7 @@
 
 ## 安装平台
 
-#### 安卓端 [下载](https://github.com/LindleyLin/JLUCloud/releases/download/v1.1.0/JLUCloud.apk)
+#### 安卓端 [下载](https://github.com/LindleyLin/JLUCloud/releases/download/v1.1.1/JLUCloud.apk)
 - 能够在大部分类安卓平台运行 *小米 OPPO VIVO 等*
 - **鸿蒙**兼容性较差 会有输入问题 解决办法于文末
 - 安卓版本较低的机型可能也会有兼容性问题 尚待测试
